@@ -1,0 +1,36 @@
+# Unreal Engine
+**/[Bb]inaries/
+**/[Bb]uild/
+**/[Dd]erivedDataCache/
+**/[Ss]aved/
+**/[Ii]ntermediate/
+*.pdb
+*.log
+*.log.*
+*.ubtmanifest
+*.manifest_debug
+*.manifest_release
+*.target
+
+# Project Specific files
+*.uproject.user
+*.sln
+*.db
+*.opensdf
+*.sdf
+*.suo
+.vscode/
+*.VC.db
+*.bak
+*.VC.opendb
+*.VC.db-shm
+*.VC.db-wal
+
+# OS Specific files
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+Thumbs.db
